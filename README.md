@@ -72,7 +72,7 @@ class About extends Me {
 - &nbsp;&nbsp;<img src="https://github.com/Mit0213/Mit0213/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
 
 <div align="center" >
-<a  href="https://github.com/Mit0213">
+<a  href="https://github.com/dodger213">
 
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
@@ -88,9 +88,6 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-
 
 <div align="center" width='100%'>
   <h1><a align='center' width='100%' href="https://app.turbotrade.tech">Please Click Here!</a></h1>
@@ -247,8 +244,6 @@ class About extends Me {
     <img src="https://github-profile-trophy.vercel.app/?username=dodger213&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@dodger213's trophy stats"/>
   </a>
 </div>
-
-
 </div>
 
 
