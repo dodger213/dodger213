@@ -1,11 +1,9 @@
-
-
-
 <div align="center" width="50">
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=stayForward09&label=Profile%20views&color=0e75b6&style=flat" alt="stayForward09" /> </p>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
 </div>
+  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/Mit0213" alt="Crypto Venus"  width="60%"/><br> 
   
 <p><strong>Freelancing & Working on Superior Crypto.
