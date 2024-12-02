@@ -3,8 +3,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
 </div>
   
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/dodger213" alt="Crypto Dodger"  width="60%"/><br> 
-  
+ <a href="https://app.daily.dev/stevendev0822"><img src="https://api.daily.dev/devcards/v2/rcpJIfOJ05isZUd5pqEDk.png?type=default&r=2fq" width="356" alt="Steven Leal's Dev Card"/></a>
+ 
 <p><strong>Freelancing & Working on Superior Crypto.
 <br><br> Vibing to : 🎧  </strong></p>
 
