@@ -8,7 +8,7 @@
 <p><strong>Freelancing & Working on Superior Crypto.
 <br><br> Vibing to : 🎧  </strong></p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=dodger213&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=stevendev0822&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/stevendev0822-grey?style=flat&logo=telegram)](https://t.me/stevendev0822) <br>
 </div>
 
@@ -61,10 +61,10 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/dodger213/dodger213/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/dodger213/dodger213/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/dodger213/dodger213/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/dodger213/dodger213/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
+-  <img alt="GIF" src="https://github.com/stevendev0822/stevendev0822/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/stevendev0822/stevendev0822/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/stevendev0822/stevendev0822/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/stevendev0822/stevendev0822/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
 
 <div align="center" >
   
@@ -212,25 +212,25 @@ class About extends Me {
 </table>
 
 <p align="center">
-  <a href="https://github.com/dodger213?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=dodger213&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@dodger213's github-readme-stats"/>
+  <a href="https://github.com/stevendev0822?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=stevendev0822&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@stevendev0822's github-readme-stats"/>
   </a>
-  <a href="https://github.com/dodger213?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dodger213&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@dodger213's github-readme-streak-stats"/>
+  <a href="https://github.com/stevendev0822?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=stevendev0822&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@stevendev0822's github-readme-streak-stats"/>
   </a>
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@dodger213">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=dodger213&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@stevendev0822">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=stevendev0822&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodger213&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/dodger213?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=dodger213&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@dodger213's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevendev0822&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/stevendev0822?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=stevendev0822&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@stevendev0822's trophy stats"/>
   </a>
 </div>
 </div>
