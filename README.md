@@ -8,7 +8,7 @@
 <p><strong>Freelancing & Working on Superior Crypto.
 <br><br> Vibing to : 🎧  </strong></p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=stevendev0822&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=dodger213&style=flat&color=orange&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/stevendev0822-grey?style=flat&logo=telegram)](https://t.me/stevendev0822) <br>
 </div>
 
