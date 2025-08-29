@@ -3,13 +3,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=I+am+a+Fullstack+and+Blockchain+Engineer.;Over+8+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a>
 </div>
   
-<a href="https://app.daily.dev/steven228312"><img src="https://api.daily.dev/devcards/v2/rcpJIfOJ05isZUd5pqEDk.png?type=default&r=3qu" width="356" alt="Steven Leal's Dev Card"/></a>
+<a href="https://app.daily.dev/imcrazysteven"><img src="https://api.daily.dev/devcards/v2/rcpJIfOJ05isZUd5pqEDk.png?type=default&r=3qu" width="356" alt="Steven Leal's Dev Card"/></a>
 
 <p><strong>Freelancing & Working on Superior Crypto.
 <br><br> Vibing to : 🎧  </strong></p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=dodger213&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/steven228312-grey?style=flat&logo=telegram)](https://t.me/steven228312) <br>
+[![telegram badge](https://img.shields.io/badge/imcrazysteven-grey?style=flat&logo=telegram)](https://t.me/imcrazysteven) <br>
 </div>
 
 <hr></hr>
@@ -61,10 +61,10 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/steven228312/steven228312/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/steven228312/steven228312/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/steven228312/steven228312/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/steven228312/steven228312/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
+-  <img alt="GIF" src="https://github.com/imcrazysteven/imcrazysteven/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/imcrazysteven/imcrazysteven/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/imcrazysteven/imcrazysteven/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, or anything**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/imcrazysteven/imcrazysteven/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
 
 <div align="center" >
   
@@ -213,25 +213,25 @@ class About extends Me {
 
 <!--
 <p align="center">
-  <a href="https://github.com/steven228312?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=steven228312&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@steven228312's github-readme-stats"/>
+  <a href="https://github.com/imcrazysteven?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=imcrazysteven&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@imcrazysteven's github-readme-stats"/>
   </a>
-  <a href="https://github.com/steven228312?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=steven228312&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@steven228312's github-readme-streak-stats"/>
+  <a href="https://github.com/imcrazysteven?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=imcrazysteven&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@imcrazysteven's github-readme-streak-stats"/>
   </a>
 </p>
 
 
 <p align="center">
-    <a href="https://wakatime.com/@steven228312">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=steven228312&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@imcrazysteven">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=imcrazysteven&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven228312&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/steven228312?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=steven228312&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@steven228312's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcrazysteven&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/imcrazysteven?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=imcrazysteven&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@imcrazysteven's trophy stats"/>
   </a>
 </div>
 -->
